@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+h1 {
+text-align: center;
+padding-top: 10%;
+padding-bottom: 20px;
+}
+  button {
+
+color: white;
+    padding: 10px 20px;
+    margin: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #boton2 {
+    background-color: green;
+
+  }
+  #boton {
+    background-color: red;
+  }
